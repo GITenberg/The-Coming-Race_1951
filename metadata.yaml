@@ -1,0 +1,50 @@
+_repo: The-Coming-Race_1951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: "The Coming Race is an 1871 novel by Edward Bulwer-Lytton, reprinted\
+  \ as Vril, the Power of the Coming Race. Among its readers have been those who believed\
+  \ that its account of a superior subterranean master race and the energy-form called\
+  \ \"Vril\" was accurate, to the extent that some theosophists, notably Helena Blavatsky,\
+  \ William Scott-Elliot, and Rudolf Steiner, accepted the book as being (at least\
+  \ in part) based on occult truth. A book, The Morning of the Magicians (1960), suggested\
+  \ that a secret Vril Society existed in pre-Nazi Berlin. However, there is no evidence\
+  \ for the existence of such a society.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Precursors of Science Fiction
+- Best Books Ever Listings
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1951'
+  wikidata: Q510699
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Subterranean -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Underground areas -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Utopian fiction'
+- GITenberg
+title: The Coming Race
+url: http://www.gutenberg.org/ebooks/1951
+wikipedia:
+- https://cs.wikipedia.org/wiki/Vril
+- https://sk.wikipedia.org/wiki/Vril
+- https://sr.wikipedia.org/wiki/%D0%92%D1%80%D0%B8%D0%BB
+- https://en.wikisource.org/wiki/Vril:_The_Power_of_the_Coming_Race;_The_New_Utopia
+- https://en.wikipedia.org/wiki/Vril
+- https://ro.wikipedia.org/wiki/Vril
