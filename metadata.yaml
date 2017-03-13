@@ -1,5 +1,8 @@
 _repo: The-Coming-Race_1951
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -19,6 +22,8 @@ description: "The Coming Race is an 1871 novel by Edward Bulwer-Lytton, reprinte
   \ in part) based on occult truth. A book, The Morning of the Magicians (1960), suggested\
   \ that a secret Vril Society existed in pre-Nazi Berlin. However, there is no evidence\
   \ for the existence of such a society.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1951#The-Coming-Race
 gutenberg_bookshelf:
 - Precursors of Science Fiction
 - Best Books Ever Listings
