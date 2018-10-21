@@ -11,6 +11,7 @@ Title: The Coming Race
 Author: Edward Bulwer Lytton
 
 Release Date: February 18, 2006 [EBook #1951]
+Last Updated: July 19, 2016
 
 Language: English
 
@@ -647,7 +648,7 @@ fibers of plants, and the floor carpeted with the same.
 The bed was without curtains, its supports of iron resting on balls of
 crystal; the coverings, of a thin white substance resembling cotton.
 There were sundry shelves containing books. A curtained recess
-communicated with an aviary filled with singing--birds, of which I
+communicated with an aviary filled with singing-birds, of which I
 did not recognise one resembling those I have seen on earth, except a
 beautiful species of dove, though this was distinguished from our doves
 by a tall crest of bluish plumes. All these birds had been trained
@@ -805,14 +806,16 @@ lovers of natural knowledge, that the various forms under which the
 forces of matter are made manifest, have one common origin; or, in other
 words, are so directly related and mutually dependent that they are
 convertible, as it were into one another, and possess equivalents of
-power in their action. These subterranean philosophers assert that by
-one operation of vril, which Faraday would perhaps call 'atmospheric
-magnetism,' they can influence the variations of temperature--in plain
-words, the weather; that by operations, akin to those ascribed to
-mesmerism, electro-biology, odic force, &c., but applied scientifically,
-through vril conductors, they can exercise influence over minds, and
-bodies animal and vegetable, to an extent not surpassed in the romances
-of our mystics. To all such agencies they give the common name of vril."
+power in their action."
+
+These subterranean philosophers assert that by one operation of vril,
+which Faraday would perhaps call 'atmospheric magnetism,' they can
+influence the variations of temperature--in plain words, the weather;
+that by operations, akin to those ascribed to mesmerism, electro-
+biology, odic force, &c., but applied scientifically, through vril
+conductors, they can exercise influence over minds, and bodies animal
+and vegetable, to an extent not surpassed in the romances of our
+mystics. To all such agencies they give the common name of vril."
 
 Zee asked me if, in my world, it was not known that all the faculties of
 the mind could be quickened to a degree unknown in the waking state,
@@ -1171,7 +1174,7 @@ destroy; because, according to the Ana, here ruthlessness is wanted,
 and the younger the child the more ruthlessly he will destroy. There is
 another class of animals in the destruction of which discrimination
 is to be used, and against which children of intermediate age are
-appointed-animals that do not threaten the life of man, but ravage the
+appointed--animals that do not threaten the life of man, but ravage the
 produce of his labour, varieties of the elk and deer species, and
 a smaller creature much akin to our rabbit, though infinitely more
 destructive to crops, and much more cunning in its mode of depredation.
